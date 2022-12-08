@@ -1,8 +1,8 @@
 //jshint eversion:8
-const bmicalculator = require("express");
+const calculator = require("express");
 const bodyParser = require("body-parser");
 
-const app = bmicalculator();
+const app = calculator();
 app.use(bodyParser.urlencoded({ extended: true }));
 const port = 3050;
 app.get("/", function (req, res) {
