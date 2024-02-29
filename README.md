@@ -6,7 +6,8 @@ This repository contains two simple web applications built with Node.js and Expr
 **BMI Calculator:** Calculates the BMI from the user's height and weight.
 
 #Prerequisites
-What things you need to install the software and how to install them:
+
+What things you need to install the software:
 
 Node.js
 
